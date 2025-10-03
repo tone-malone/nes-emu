@@ -1,2 +1,1 @@
 # nes-emu
-nes emulator 
